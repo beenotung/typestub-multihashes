@@ -1,0 +1,20 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typestub-multihashes": "file:.."
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}

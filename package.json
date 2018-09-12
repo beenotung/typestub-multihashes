@@ -1,0 +1,39 @@
+{
+  "name": "typestub-multihashes",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write index.d.ts",
+    "postformat": "tslint -p . --fix",
+    "test": "tsc index.d.ts"
+  },
+  "keywords": [
+    "typestub",
+    "typescript",
+    "multihashes"
+  ],
+  "author": "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "multihashes": "^0.4.14"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "prettier": "^1.13.7",
+    "tslint": "^5.10.0",
+    "tslint-eslint-rules": "^5.2.0",
+    "typescript": "^2.8.3"
+  },
+  "peerDependencies": {
+    "@types/node": "^8.0.0"
+  },
+  "description": "typestub of multihashes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/typestub-multihashes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beenotung/typestub-multihashes/issues"
+  },
+  "homepage": "https://github.com/beenotung/typestub-multihashes#readme"
+}
