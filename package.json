@@ -1,6 +1,6 @@
 {
   "name": "typestub-multihashes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write index.d.ts",
