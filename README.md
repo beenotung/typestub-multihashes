@@ -1,4 +1,6 @@
-# TypeStub for multihashes (js-multihash)
+# typestub-multihashes
+TypeStub for multihashes (js-multihash)
+
 [![npm Package Version](https://img.shields.io/npm/v/typestub-multihashes.svg?maxAge=2592000)](https://www.npmjs.com/package/typestub-multihashes)
 
 source: https://github.com/multiformats/js-multihash
